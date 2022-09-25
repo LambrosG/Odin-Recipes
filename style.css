@@ -1,0 +1,34 @@
+.welcome.primary {
+    text-align: center;
+    color: navy;
+    font-size: 50px;
+}
+
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.recipes-list {
+    text-decoration: none;
+    font-size: 40px;
+    text-align:center;
+    color: wheat;
+}
+
+h1 {
+    text-align: center;
+}
+
+.recipe-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.back {
+    font-size: 25px;
+}
