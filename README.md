@@ -1,5 +1,7 @@
 # odin-recipes
 
-My first Odin Project (theodinproject.com).
+Odin Recipes is my first project created entirely in HTML using basic elements.
 
-This is a simple recipes website created by using HTML
+
+**LIVE PREVIEW BELOW**
+https://lambrosg.github.io/odin-recipes/
